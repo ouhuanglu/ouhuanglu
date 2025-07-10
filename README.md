@@ -1,9 +1,9 @@
-## 你好 👋
-<img width="1280" height="640" alt="微信图片_20250710220506" src="https://github.com/user-attachments/assets/439be6fe-fb2f-4650-91f9-245aa5ef9164" />
+## Hi there👋Welcome!
+<img width="917" height="228" alt="微信图片_20250710222203" src="https://github.com/user-attachments/assets/872d965f-5007-42bc-af65-f2a852b8bf7e" />
+Hello! My name is Yu MuYang. I am from Wuhan Donghu University, majoring in computer network technology.
+I'm new to the GitHub community and hope to learn a lot here.
 
-
-
-
+📫 How to reach me:ouhuangluya@gmail.com
 
 <!--
 **ouhuanglu/ouhuanglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
