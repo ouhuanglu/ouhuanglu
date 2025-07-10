@@ -1,5 +1,5 @@
 ## 你好 👋
-<img width="640" height="400" alt="微信图片_20250710220506" src="https://github.com/user-attachments/assets/439be6fe-fb2f-4650-91f9-245aa5ef9164" />
+<img width="1280" height="640" alt="微信图片_20250710220506" src="https://github.com/user-attachments/assets/439be6fe-fb2f-4650-91f9-245aa5ef9164" />
 
 
 
