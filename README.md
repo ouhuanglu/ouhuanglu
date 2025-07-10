@@ -1,4 +1,9 @@
 ## 你好 👋
+<img width="640" height="400" alt="微信图片_20250710220506" src="https://github.com/user-attachments/assets/439be6fe-fb2f-4650-91f9-245aa5ef9164" />
+
+
+
+
 
 <!--
 **ouhuanglu/ouhuanglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
