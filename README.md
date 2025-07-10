@@ -1,5 +1,5 @@
 ## Hi there👋Welcome!
-<img width="917" height="228" alt="微信图片_20250710222203" src="https://github.com/user-attachments/assets/872d965f-5007-42bc-af65-f2a852b8bf7e" />
+<img width="1280" height="228" alt="微信图片_20250710222203" src="https://github.com/user-attachments/assets/872d965f-5007-42bc-af65-f2a852b8bf7e" />
 Hello! My name is Yu MuYang. I am from Wuhan Donghu University, majoring in computer network technology.
 I'm new to the GitHub community and hope to learn a lot here.
 
